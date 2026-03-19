@@ -1,5 +1,7 @@
-## Hi there 👋
-
+Hola, soy Fernando Arévalo. 👋
+🌱soy estudiante de ingeniería informática.
+ Me gustan los deportes y la tecnología y la música.
+-----------------------------------------
 <!--
 **FernandoooArevalo/FernandoooArevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
